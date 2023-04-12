@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stb_image_write.h": "c"
+    },
+    "C_Cpp.default.includePath": [
+        "/opt/homebrew/Cellar/open-mpi/4.1.5/include"
+    ]
+}
